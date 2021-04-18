@@ -1,0 +1,31 @@
+device_type, device_name,network, inventory_state
+,,,
+Switch,UK_U40_MS,KLS_BROADGATE - switch,In use
+,,,
+Switch,B04-04,CASABLANCA-MOROCCO - switch,In use
+,,,
+Switch,B01-04,CASABLANCA-MOROCCO - switch,In use
+,,,
+Switch,B03-03,CASABLANCA-MOROCCO - switch,In use
+,,,
+Switch,B02-04,CASABLANCA-MOROCCO - switch,In use
+,,,
+Switch,B01-03,CASABLANCA-MOROCCO - switch,In use
+,,,
+Switch,W01P,ISTANBUL-TURKEY - switch,In use
+,,,
+Switch,W02P,ISTANBUL-TURKEY - switch,In use
+,,,
+Wireless,WARS_MOKOTOW _MX65W,ARM_WARS - wireless,Unused
+,,,
+Wireless,NO50AAP004P,,Unused
+,,,
+Wireless,FR44AAP001P,,Unused
+,,,
+Wireless,FR44AAP002P,,Unused
+,,,
+Wireless,FR44AAP003P,,Unused
+,,,
+Wireless,FR44AAP003P,,Unused
+,,,
+Switch,MA01VSAO104A-B03-04,MA01-HQ-CASABLANCA-MOROCCO - switch,In use
